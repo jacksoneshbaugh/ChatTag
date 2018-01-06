@@ -1,0 +1,4 @@
+name: ChatTagging
+version: 1.0.0
+main: me.ITGuy12.ChatTag.Main
+description: When players mention others in chat, they are notified.
